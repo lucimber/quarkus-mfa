@@ -1,4 +1,4 @@
-:quarkus-version: 3.0.1.Final
+:quarkus-version: 3.5.0
 :quarkus-mfa-version: 0.5.8
 
 :quarkus-org-url: https://github.com/quarkusio
